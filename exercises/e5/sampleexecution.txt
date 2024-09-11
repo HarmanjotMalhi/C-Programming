@@ -1,0 +1,146 @@
+﻿Type 0 to quit and 1 to continue: 1
+
+
+Enter 1 for insert and 0 delete: 1
+
+
+What you want to enter: a
+
+
+What is the priority you want of the thing: 0
+
+
+a
+Type 0 to quit and 1 to continue: 1
+
+
+Enter 1 for insert and 0 delete: 1
+
+
+What you want to enter: b
+
+
+What is the priority you want of the thing: 1
+
+
+a
+b
+Type 0 to quit and 1 to continue: 1
+
+
+Enter 1 for insert and 0 delete: 1
+
+
+What you want to enter: c
+
+
+What is the priority you want of the thing: 2
+
+
+a
+b
+c
+Type 0 to quit and 1 to continue: 1
+
+
+Enter 1 for insert and 0 delete: 1
+
+
+What you want to enter: d
+
+
+What is the priority you want of the thing: 3
+
+
+a
+b
+c
+d
+Type 0 to quit and 1 to continue: 1
+
+
+Enter 1 for insert and 0 delete: 1
+
+
+What you want to enter: e
+
+
+What is the priority you want of the thing: 4
+
+
+a
+b
+c
+d
+e
+Type 0 to quit and 1 to continue: 1
+
+
+Enter 1 for insert and 0 delete: 1
+
+
+What you want to enter: f
+
+
+What is the priority you want of the thing: 3
+
+
+a
+b
+c
+d
+f
+e
+Type 0 to quit and 1 to continue: 1
+
+
+Enter 1 for insert and 0 delete: 1
+
+
+What you want to enter: g
+
+
+What is the priority you want of the thing: 1
+
+
+a
+b
+g
+c
+d
+f
+e
+Type 0 to quit and 1 to continue: 1
+
+
+Enter 1 for insert and 0 delete: 0
+
+
+b
+g
+c
+d
+f
+e
+Type 0 to quit and 1 to continue: 1
+
+
+Enter 1 for insert and 0 delete: 0
+
+
+g
+c
+d
+f
+e
+Type 0 to quit and 1 to continue: 1
+
+
+Enter 1 for insert and 0 delete: 0
+
+
+c
+d
+f
+e
+Type 0 to quit and 1 to continue: 0
